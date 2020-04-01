@@ -1,0 +1,6 @@
+com.gradproject.movfilms.movfilms.model
+com.gradproject.movfilms.movfilms.network
+com.gradproject.movfilms.movfilms.ui.activity
+com.gradproject.movfilms.movfilms.ui.adapter
+com.gradproject.movfilms.movfilms.ui.utils
+com.gradproject.movfilms.movfilms.ui.viewholder
